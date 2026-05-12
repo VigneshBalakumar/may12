@@ -1,0 +1,1 @@
+mobile_phone= ["oneplus","apple","samsung","realme","oppo","vivo","Motorola","sony"]
