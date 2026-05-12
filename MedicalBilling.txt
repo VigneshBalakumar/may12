@@ -1,0 +1,33 @@
+In medical billing payment posting is one of the important part of revenue cycle process. It's the practice are accurately recorded payment received from 
+insurance companies and patient into the medical billing system. This step not only ensures for financial records but also provides insight into the overall  health of healthcare practice revenue cycle
+
+
+Durable medical equipment : The medical equipment that can be used by many times, special equipment that can be ordered by doctor is usually for use at home. coverage of DME may include : oxygen equipment, wheelchair, crutches & blood testing strips for diabetics
+
+
+CMS 1500 form details
+ 
+1 Medicare, Medicaid, Tricare, Champva other health plan 
+1a. Insured's ID number
+2. Patient name
+3 patient date of birth sex
+4 Insured's name
+5 patient address city |state |zipcode | Telephone code
+6. patient Relationship self|spouse|child|other
+7. Insured Address city|state|zipcode|telphone code
+8 Reserved for NUCC use
+9 other Insured name
+other Insured policy or group number
+Reserved for NUCC use
+Reserved for NUCC use
+Insurance plan name or program name
+10. Is patient condition Related to 
+a. Employment
+b. Auto-accident
+c. other Accident
+
+20 outside lab 
+21. Diagnosis or nature of illness or injury
+22. submission code
+23 prior authorization number
+24. date of services | place of services |  procedure, services& supplier | Diagnosis Pointer | charges | 
