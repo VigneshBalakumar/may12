@@ -1,1 +1,7 @@
 artifical intelligence
+Collecting the data, descriptive the data, inferential the data known as data science
+collecting data from internal course, external course, third party course
+descriptive - measure of center tendence
+null value handled by mean, median, mode
+measure of deposing
+2 kinds of population finite & infinite
