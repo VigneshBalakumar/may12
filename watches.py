@@ -1,0 +1,1 @@
+watch_brand_name = ["fossil","casino","apple","samsung","fastrack","tissot","sonata","land cover watch"]
